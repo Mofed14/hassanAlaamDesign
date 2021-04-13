@@ -1,0 +1,281 @@
+body {
+  top: 0px;
+  left: 0px;
+  background: url("../img//Group\ 1727.png") no-repeat;
+  height: 100%;
+
+  opacity: 1;
+}
+
+/* header  */
+.header p {
+  opacity: 1;
+}
+
+.header a {
+  color: #ffffff;
+  font-size: 16px;
+  list-style: none;
+}
+
+.header ul li {
+  display: inline-block;
+  margin-right: 2px;
+  list-style: none;
+  text-decoration: none;
+  margin-right: 27px;
+}
+
+.header ul li a {
+  text-decoration: none;
+}
+
+.header ul li a:hover {
+  color: #ffffff;
+}
+.header ul li .call {
+  font-weight: bold;
+}
+/* header */
+
+/* content */
+
+.content {
+  padding-bottom: 100px;
+}
+.content h1 {
+  padding-top: 200px;
+  color: #ffffff;
+  font: bold;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.content p {
+  letter-spacing: 0.4px;
+  color: #e4e2e2;
+}
+
+.content .first {
+  color: #001032;
+  border: #ffffff solid 1px;
+  background-color: #ffffff;
+  letter-spacing: 0px;
+  padding: 14px 60px;
+  font-weight: bold;
+}
+.content a:hover {
+  color: #001032;
+}
+
+.content .log {
+  padding-top: 150px;
+}
+
+.content .login {
+  width: 412px;
+}
+.content form {
+  padding-top: 70px;
+  padding-left: 26px;
+  padding-bottom: 70px;
+}
+.content label {
+  color: #1c2e3d;
+  letter-spacing: 2.36px;
+}
+.content input {
+  width: 90% !important;
+  border: none;
+  border-bottom: 1px solid #1c2e3d;
+}
+
+.content .card-footer {
+  border: 1px solid #f15922;
+  border-radius: 0px 0px 8px 8px;
+  background-color: #f15922;
+}
+
+.content .card-footer a {
+  color: #ffffff;
+  letter-spacing: 2.91px;
+  text-align: center;
+}
+
+@media (min-width: 500px) and (max-width: 850px) {
+  .content .log {
+    padding-top: 40px;
+  }
+
+  .content h1 {
+    padding-top: 40px;
+  }
+
+  .content .login {
+    width: 200px;
+  }
+}
+
+/* .content .log form {
+  border: #ffffff solid 1px;
+  background-color: #ffffff;
+} */
+
+/* content */
+
+.swan {
+  padding-bottom: 100px;
+}
+
+.swan h1 {
+  color: #1b2844;
+  text-align: center;
+  font: normal normal bold 48px/67px Open Sans;
+  letter-spacing: 0px;
+  color: #1b2844;
+  text-transform: capitalize;
+  opacity: 1;
+}
+
+.swan p {
+  text-align: center;
+  font: normal normal normal 16px/26px Open Sans;
+  letter-spacing: 0.3px;
+  color: #1b2844;
+  opacity: 1;
+}
+
+.gallery {
+  padding-bottom: 100px;
+}
+
+.gallery h1 {
+  text-align: center;
+  font: normal normal bold 48px/67px Open Sans;
+  letter-spacing: 0px;
+  color: #1b2844;
+  text-transform: capitalize;
+  opacity: 1;
+}
+
+.location {
+  padding-bottom: 200px;
+}
+.location h1 {
+  text-align: center;
+  font: normal normal bold 48px/67px Open Sans;
+  letter-spacing: 0px;
+  color: #1b2844;
+  text-transform: capitalize;
+  opacity: 1;
+}
+
+.location ul li {
+  display: inline-block;
+  margin-right: 2px;
+  list-style: none;
+  text-decoration: none;
+  margin-right: 27px;
+}
+
+.location ul li p {
+  font: normal normal normal 16px/26px Open Sans;
+  letter-spacing: 0.3px;
+  color: #1b2844;
+  opacity: 1;
+  font-size: 20px;
+}
+
+.final {
+  background-color: #1b2844;
+  width: 100%;
+  height: 100%;
+}
+
+.final .West {
+  padding-bottom: 150px;
+}
+
+.final h3 {
+  color: #ffffff;
+  letter-spacing: 11.4px;
+  font-family: emoji;
+}
+
+.final .res {
+  color: #ada8a8;
+  letter-spacing: 2.4px;
+  padding-bottom: 150px;
+}
+
+.final h1 {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.final p {
+  color: #ada8a8;
+}
+
+.final .west {
+  width: 50%;
+}
+
+.final .Residence {
+  padding-bottom: 150px;
+}
+
+.final h2 {
+  color: #ffffff;
+}
+
+.final .button {
+  text-align: center;
+}
+
+.final .fill {
+  border: 1px solid #8bb0ff;
+  padding: 15px 50px;
+  background-color: #8bb0ff;
+  color: black;
+  font-weight: bold;
+}
+.final .call {
+  border: 1px solid #e7b248;
+  padding: 15px 30px;
+  background-color: #e7b248;
+  color: black;
+  font-weight: bold;
+}
+
+.final .what {
+  padding-bottom: 50px;
+}
+
+.final .contactus {
+  padding-bottom: 150px;
+}
+
+.final .contactus label {
+  color: #9ea3aa;
+  letter-spacing: 2.4px;
+}
+
+.final .contactus label {
+  border: none;
+  border-bottom: 1px solid #1c2e3d;
+}
+
+.contactus a {
+  border: 1 solid #ffffff;
+  background-color: #ffffff;
+  color: black;
+  letter-spacing: 2.4px;
+  font-weight: bold;
+  padding: 20px 50px;
+}
+
+.contactus a:hover {
+  color: black;
+}
